@@ -1,0 +1,3 @@
+#descrição
+aqui vamos criar 4 pastas cada pasta tera o dia aproximado que se inicia cada estação do ano, cada estação vamosfazer um commit e subir no github 
+lembrando que as estações podem mudar levemente devido ao ano bissexto 
